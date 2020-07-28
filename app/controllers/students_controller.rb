@@ -3,3 +3,9 @@ class StudentsController < ApplicationController
     @students = Student.all
   end
 end
+
+
+#edited:
+#students controller in app/controllers
+#views/students
+#models/routes.rb
