@@ -8,4 +8,4 @@ end
 #edited:
 #students controller in app/controllers
 #views/students
-#models/routes.rb
+#config/routes.rb
